@@ -10,7 +10,7 @@ import requests
 import os
 import webbrowser
 def CyX():
-     print(red + figlet_format('CyX-Ip-Info'))
+     print(red + figlet_format('Ip-Info'))
      print(green + '''
      Telegram = @CyberSpyWare
      Github = https://www.github.com/CyberX101
